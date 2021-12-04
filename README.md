@@ -127,8 +127,8 @@ Apache 2.0 © Anubhav Kashyap
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `mail us at: anubhavkashyap@pm.me`
-* 'instagram :bishal_sra'
+* `mail us at: anubhavkashyap@pm.me` 
+* `instagram: bishal_sra` 
 
 ## Telegram Channel
 * `Join the Official Telegram channel of XLR8`
