@@ -7,8 +7,8 @@
 
 ## Disclaimer
 *This tool is for educational purposes only !*
-_Don't use this to take revenge_<br />
-*I will not be responsible for any misuse*
+_also use this to take revenge_<br />
+*but I will not be responsible for any misuse*
 
 ## About
 * `Unlimited Usage !`
@@ -128,6 +128,7 @@ Apache 2.0 © Anubhav Kashyap
 ## Contact Us
 * `If you have any feedback or queries`
 * `mail us at: anubhavkashyap@pm.me`
+* 'instagram :bishal_sra'
 
 ## Telegram Channel
 * `Join the Official Telegram channel of XLR8`
